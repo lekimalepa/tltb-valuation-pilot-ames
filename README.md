@@ -43,6 +43,21 @@ All components (data handling, model training, explainability, and app interface
 
 ---
 
+## **Dataset (Public Benchmark) — Included for Replication**
+
+This prototype uses the **Ames Housing Dataset**, a publicly available benchmark dataset derived from residential property sales in **Ames, Iowa (United States)**.
+
+For replication convenience, the dataset is included in this repository here:
+
+- `data/raw/ames.csv`
+
+**Important notes:**
+- This dataset is **public** and used only for demonstration and benchmarking.
+- It contains no TLTB or confidential information.
+- In a production TLTB version, this file would be replaced by **TLTB’s internal land, lease, and valuation datasets** under appropriate governance and security controls.
+
+---
+
 ## **Model Performance (Benchmark Results)**
 
 Three models were evaluated:
@@ -201,5 +216,6 @@ Master of Data Science (in progress)
 Land Economics & Indigenous Land Governance Research
 
 ---
+
 
 
