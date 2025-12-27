@@ -89,7 +89,8 @@ From the SHAP summary plot:
 
 Each dot shows how a feature **increases or decreases** the predicted value, providing **decision-grade transparency** suitable for governance, auditing, and policy review.
 
-📊 *(SHAP summary plot can be included here as an image in the README)*
+![Capture2](https://github.com/user-attachments/assets/37df5c95-bb8c-4ea6-833e-6f8d40d27ca0)
+
 
 ---
 
@@ -216,6 +217,7 @@ Master of Data Science (in progress)
 Land Economics & Indigenous Land Governance Research
 
 ---
+
 
 
 
