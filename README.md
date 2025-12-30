@@ -99,18 +99,13 @@ Each dot shows how a feature **increases or decreases** the predicted value, pro
 📸 *(Insert screenshots here)*
 Recommended:
 
-1. Main Streamlit interface
-2. Prediction output
-3. SHAP explanation plot
+1. Main Streamlit interface![Render Screenshot1](https://github.com/user-attachments/assets/d987c438-b0d2-46c1-b19e-a019305279fc)
 
-Example:
+2. Prediction output![Render Screenshot2](https://github.com/user-attachments/assets/bd73b56d-3987-45a5-a90c-49c09513114f)
 
-```md
-![App Interface](reports/figures/app_screenshot.png)
-![SHAP Explanation](reports/figures/shap_summary.png)
-```
 
----
+
+
 
 ## **Project Structure**
 
@@ -217,6 +212,7 @@ Master of Data Science (in progress)
 Land Economics & Indigenous Land Governance Research
 
 ---
+
 
 
 
