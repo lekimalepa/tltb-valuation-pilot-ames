@@ -19,7 +19,7 @@ The same architecture can be **directly adapted to TLTB datasets** (leases, impr
 ## **Live Demonstration (Prototype App)**
 
 🔗 **Streamlit Demo (Public Web App)**
-👉 *(URL to be inserted once Streamlit Cloud access is resolved)*
+👉 *(URL : https://tltb-valuation-pilot-ames-dataset.onrender.com/)*
 
 The live app allows users to:
 
@@ -217,6 +217,7 @@ Master of Data Science (in progress)
 Land Economics & Indigenous Land Governance Research
 
 ---
+
 
 
 
