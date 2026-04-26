@@ -1,5 +1,3 @@
-It is written as a **product page + replication guide** and explicitly positions this as a **TLTB-ready prototype**.
-
 # **TLTB AI Valuation Pilot (Ames Housing Demonstration)**
 
 ## **Overview**
